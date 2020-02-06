@@ -73,6 +73,8 @@ To launch Jupyter, use:
 
 [![Local](https://img.shields.io/badge/Local-Save%20As...-blue)](https://github.com/adimajo/polytechnique-cse204-2019-releases/raw/master/lab_session_01/lab_session_01.ipynb)
 
+[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://htmlpreview.github.io/?https://github.com/adimajo/polytechnique-cse204-2019-releases/blob/master/lab_session_01/lab_session_01_solutions.html)
+
 ## Lab session 02: `k`-nearest neighbors
 
 ### Subject:
