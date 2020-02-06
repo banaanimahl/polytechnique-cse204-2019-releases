@@ -1,4 +1,4 @@
-![X](source/logo.jpg)
+![X](logo.jpg)
 
 # Polytechnique [CSE204-2019](https://moodle.polytechnique.fr/course/view.php?id=7862)
 
