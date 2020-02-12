@@ -18,6 +18,7 @@ Machine learning is an increasingly important area, and it has provided many of 
 **Grading:**
 
 2 Lab reports/in-class tests 25% each
+
 Group project (in groups of 3) 50%
 
 **Some recommended literature:**
@@ -25,6 +26,7 @@ Group project (in groups of 3) 50%
 There is no official course textbook, but the following are recommendations (others may be added later):
 
 James et al., **An Introduction to Statistical Learning**. Springer. (And/or: Hastie et al., The Elements of Statistical Learning. Springer)
+
 Goodfellow et al. **The Deep Learning Book**. MIT Press.
 
 **Lab sessions:**
@@ -75,7 +77,7 @@ To launch Jupyter, use:
 
 [![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://htmlpreview.github.io/?https://github.com/adimajo/polytechnique-cse204-2019-releases/blob/master/lab_session_01/lab_session_01_solutions.html)
 
-## Lab session 02: `k`-nearest neighbors
+## Lab session 02: parametric models
 
 ### Subject:
 
@@ -85,7 +87,7 @@ To launch Jupyter, use:
 
 [![Local](https://img.shields.io/badge/Local-Save%20As...-blue)](https://github.com/adimajo/polytechnique-cse204-2019-releases/raw/master/lab_session_02/lab_session_02.ipynb)
 
-## Lab session 03: parametric models
+## Lab session 03: `k`-nearest neighbors
 
 ### Subject:
 
