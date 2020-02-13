@@ -75,6 +75,8 @@ To launch Jupyter, use:
 
 [![Local](https://img.shields.io/badge/Local-Save%20As...-blue)](https://github.com/adimajo/polytechnique-cse204-2019-releases/raw/master/lab_session_01/lab_session_01.ipynb)
 
+### Solution:
+
 [![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://htmlpreview.github.io/?https://github.com/adimajo/polytechnique-cse204-2019-releases/blob/master/lab_session_01/lab_session_01_solutions.html)
 
 ## Lab session 02: parametric models
@@ -86,6 +88,11 @@ To launch Jupyter, use:
 [![My Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adimajo/polytechnique-cse204-2019-releases/master?filepath=lab_session_02%2Flab_session_02.ipynb)
 
 [![Local](https://img.shields.io/badge/Local-Save%20As...-blue)](https://github.com/adimajo/polytechnique-cse204-2019-releases/raw/master/lab_session_02/lab_session_02.ipynb)
+
+### Solution:
+
+[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://htmlpreview.github.io/?https://github.com/adimajo/polytechnique-cse204-2019-releases/blob/master/lab_session_02/lab_session_02_solutions.html)
+
 
 ## Lab session 03: `k`-nearest neighbors
 
